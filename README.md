@@ -1,6 +1,7 @@
 # Patrick Lennard, PhD 🔬🦠🧬
 
-## 🧪 Biotechnology, Immunology and One Health Scientist | Antimicrobial resistance, preclinical modelling, vaccine development, and a smidgeon of data science
+## 👨‍🔬 Biotechnology, Immunology and One Health Scientist
+## 🧪 Antimicrobial resistance, preclinical modelling, vaccine development, and a smidgeon of data science
 
 ## 🌱 Current Focus
 
