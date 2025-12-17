@@ -20,6 +20,6 @@ Always happy to collaborate, whether that's finessing wet lab technique, refinin
 ## 📫 Let's Connect
 
 - 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/prlennard)
-- 🦋 **Bluesky**: [@prlennard](https://bsky.app/profile/prlennard.bsky.social))
+- 🦋 **Bluesky**: [@prlennard](https://bsky.app/profile/prlennard.bsky.social)
 - 📧 **Email**: [Reach out](mailto:p.r.lennard@gmail.com)
 - 🌐 **Website**: [patricklennard.github.com](https://patricklennard.github.io/)
